@@ -1,0 +1,7 @@
+base   behave
+author Symon Bent
+email  hendrybadao@gmail.com
+date   2013-10-12
+name   behave plugin
+desc   Integrates behave.js into the DokuWiki editor
+url    http://www.dokuwiki.org/plugin:behave
