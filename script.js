@@ -16,7 +16,7 @@ var plugin_behave = (function () {
             autoOpen: true,
             overwrite: true,
             autoStrip: true,
-            autoIndent: true,
+            autoIndent: false,
             fence: false
         });
     };
